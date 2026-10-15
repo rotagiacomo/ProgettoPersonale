@@ -1,9 +1,13 @@
 # ProgettoPersonale
 ## Healthy Eating
 ### Descrizione
-Web app che mette in comunicazione dietisti e pazienti. Ai dietisti permette di realizzare piani alimentari e seguire l'andamento del peso corporeo di un paziente. Ai pazienti permette di visualizzare la dieta e tracciare il peso corporeo
+Web app che mette in comunicazione dietisti e pazienti, consentendo ai professionisti di elaborare piani alimentari personalizzati e monitorare l'andamento del peso corporeo dei propri pazienti. Questi ultimi possono consultare il piano alimentare assegnato e registrare il proprio peso, così da monitorare i progressi nel tempo.
 ### Problema che vuole risolvere
-Aggiornamento delle diete lento e controllo dell'andamento troppo raramente.
+Lentezza nell'aggiornamento dei piani alimentari e monitoraggio poco frequente dell'andamento del peso corporeo dei pazienti.
+### Tag line
+Una nutrizione più dinamica e connessa
+### Target
+Dietologi o Nutrizionisti, Pazienti o Atleti
 ### Attori 
 Dietologi o Nutrizionisti, Pazienti e Admin 
 ### Competitors
