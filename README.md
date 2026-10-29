@@ -127,8 +127,10 @@ Nell'elenco originale non c'erano veri requisiti non funzionali: erano tutte fun
 
 ## Diagramma Use Case
 ### Nutrizionista - Paziente:
-![Diagramma use case](usecasep-personalenutrizionista-paziente.svg)
+![Diagramma use case](diagrammaNutrizionista-Paziente.svg)
 ---
 ### Paziente:
-![Diagramma use case](usecasep-personalepaziente.svg)
+![Diagramma use case](Paziente.svg)
 ---
+### Nutrizionista:
+![Diagramma use case](usecasep-personalenutrizionista-paziente.svg)
