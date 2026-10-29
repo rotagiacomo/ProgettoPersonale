@@ -15,8 +15,8 @@ FatSecret e YAZIO
 ### Tecnologie
 Javascript (react), node.js
 
-##Use Case
-###Dietista
+## Use Case
+### Dietista
 -Come dietista, voglio iscrivermi e creare il mio account perchè voglio utilizzare il software per i miei pazienti
 -Come dietista, voglio aggiungere un nuovo cliente ed inserire i suoi dati perchè voglio permettere al cliente di usare il software per consegnargli la sua dieta
 -Come dietista, voglio creare/modificare/eliminare un piano alimentare, perchè lo devo consegnare al cliente 
@@ -35,7 +35,7 @@ Come dietista, voglio poter visualizzare lo storico diete passate, perchè devo 
 -Come dietista, voglio visualizzare il diario alimentare del paziente perchè voglio vedere se sta seguendo la dieta
 -Come dietista/paziente, voglio avere una chat diretta con l’altra figura per chiarimenti/precisazioni/consigli sulla dieta 
 
-###Paziente
+### Paziente
 -Come paziente, voglio poter accedere all’app con le credenziali create dal nutrizionista, perché voglio usufruire dei servizi del software inclusi con l’iscrizione al percorso con il nutrizionista
 -Come paziente, voglio visualizzare la dieta ricevuta, perchè la devo seguire 
 -Come paziente, voglio avere un diario alimentare dove segnare i pasti effettuati, perchè voglio tener traccia di quello che mangio 
