@@ -110,8 +110,9 @@ Nell'elenco originale non c'erano veri requisiti non funzionali: erano tutte fun
 | Cookies e privacy | Informativa privacy e gestione del consenso ai cookie secondo la normativa vigente |
 
 ## Diagramma Use Case
-# Nutrizionista - Paziente
+### Nutrizionista - Paziente:
 ![Diagramma use case](usecasep-personalenutrizionista-paziente.svg)
-
-# Paziente
+---
+### Paziente:
 ![Diagramma use case](usecasep-personalepaziente.svg)
+---
