@@ -1,18 +1,31 @@
-# ProgettoPersonale
-## Healthy Eating
-### Descrizione
+# Healthy Eating
+## Descrizione
 Web app che mette in comunicazione dietisti e pazienti, consentendo ai professionisti di elaborare piani alimentari personalizzati e monitorare l'andamento del peso corporeo dei propri pazienti. Questi ultimi possono consultare il piano alimentare assegnato e registrare il proprio peso, così da monitorare i progressi nel tempo.
-### Problema che vuole risolvere
+
+## Problema che vuole risolvere
 Lentezza nell'aggiornamento dei piani alimentari e monitoraggio poco frequente dell'andamento del peso corporeo dei pazienti.
-### Tag line
+
+## Tag line
 Una nutrizione più dinamica e connessa
-### Target
+
+## Target
 Dietologi o Nutrizionisti, Pazienti o Atleti
-### Attori 
-Dietologi o Nutrizionisti, Pazienti e Admin 
-### Competitors
-FatSecret e YAZIO
-### Tecnologie
+
+## Competitor
+### Italiani
+- **MetaDieta**: software per computer per il calcolo delle diete, con app companion per il paziente. Prezzo a licenza, su richiesta.
+- **DietPro Studio**: piattaforma per nutrizionisti con libreria alimenti. Il cliente vede il piano, scrive al nutrizionista e carica i propri progressi.
+- **X-Nutrition Cloud**: software cloud, piani alimentari, esami, visite e fatture.
+
+### Internazionali
+- **Nutrium**: piattaforma all-in-one con piani alimentari, diario, messaggi e analisi nutrizionale. App paziente anche in italiano, da circa 39 €/mese.
+- **NutriAdmin**: gestionale con cartelle cliniche, piani pasti, portale cliente, fatturazione e calendario. 
+- **Practice Better**: gestione dello studio con portale cliente, piani alimentari, diario, messaggi e telehealth.
+- **That Clean Life**: creazione rapida di piani alimentari personalizzati e brandizzati, con ricette pronte. Da circa 39 $/mese.
+- **Nutrilog**: gestione clienti, analisi nutrizionale, monitoraggio dei progressi e comunicazione con il paziente.
+- **NutriSwift**: app gratuita per dietista e cliente, con monitoraggio di peso, attività e pasti.
+
+## Tecnologie
 Javascript (react), node.js
 
 ## Attori
