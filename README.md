@@ -108,3 +108,10 @@ Nell'elenco originale non c'erano veri requisiti non funzionali: erano tutte fun
 |---|---|
 | Protezione dei dati personali e sanitari | I dati personali e di salute del cliente devono essere tenuti al sicuro e privati (GDPR: dati sanitari = categoria particolare di dati), con accesso solo agli utenti autorizzati |
 | Cookies e privacy | Informativa privacy e gestione del consenso ai cookie secondo la normativa vigente |
+
+## Diagramma Use Case
+# Nutrizionista - Paziente
+![Diagramma use case](usecasep-personalenutrizionista-paziente.svg)
+
+# Paziente
+![Diagramma use case](usecasep-personalepaziente.svg)
