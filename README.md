@@ -97,7 +97,10 @@ Javascript (react), node.js
  
 | User | Motivazione |
 |---|---|
-| Come admin, voglio aggiungere nuovi prodotti all'elenco generale degli alimenti | Perché dietisti e pazienti possano trovarli nelle ricerche e usarli nei piani alimentari |
+| Come admin, voglio visualizzare i nutrizionisti iscritti al software | Perché devo capire l'andamento del software |
+| Come admin, voglio visualizzare i pazienti relativi a un determinato nutrizionista | Perché devo capire se il servizio viene utilizzato o meno |
+| Come admin, voglio cercare un alimento nel database alimenti | Perché devo vedere se esiste già |
+| Come admin, voglio aggiungere un alimento nel database alimenti | Perché è un alimento frequentemente usato |
  
 ---
  
