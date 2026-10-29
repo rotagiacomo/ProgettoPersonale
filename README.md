@@ -134,3 +134,6 @@ Nell'elenco originale non c'erano veri requisiti non funzionali: erano tutte fun
 ---
 ### Nutrizionista:
 ![Diagramma use case](usecasep-personalenutrizionista-paziente.svg)
+---
+### Admin:
+![Diagramma use case](admin.svg)
