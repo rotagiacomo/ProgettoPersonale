@@ -138,3 +138,7 @@ Javascript (react), node.js
 ---
 ### Admin:
 ![Diagramma use case](admin.svg)
+
+## Diagramma ER
+![Diagramma ER](diagrammaER.svg)
+---
