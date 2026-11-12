@@ -13,7 +13,7 @@ Dietologi o Nutrizionisti, Pazienti o Atleti
 
 ## Competitor
 ### Italiani
-- **MetaDieta**: software per computer per il calcolo delle diete, con app companion per il paziente. Prezzo a licenza, su richiesta.
+- **MetaDieta**: software per computer per il calcolo delle diete, con app per il paziente. Prezzo a licenza, su richiesta.
 - **DietPro Studio**: piattaforma per nutrizionisti con libreria alimenti. Il cliente vede il piano, scrive al nutrizionista e carica i propri progressi.
 - **X-Nutrition Cloud**: software cloud, piani alimentari, esami, visite e fatture.
 
@@ -32,7 +32,7 @@ Javascript (react), node.js
  
 | Attore | Ruolo |
 |---|---|
-| Dietista | Crea diete, crea profili clienti e segue i dati clinici del paziente |
+| Dietista | Crea diete, crea profili pazienti e segue i dati clinici del paziente |
 | Paziente | Visualizza la dieta, tiene traccia del peso corporeo e dei pasti effettuati |
 | Admin | Aggiunge prodotti all'elenco degli alimenti |
  
@@ -51,13 +51,15 @@ Javascript (react), node.js
 | User | Motivazione |
 |---|---|
 | Come dietista, voglio iscrivermi e creare il mio account | Perché voglio utilizzare il software per i miei pazienti |
+|Come dietista, voglio accedere al mio account | Perché voglio utilizzare il software |
 | Come dietista, voglio aggiungere un nuovo paziente e inserire i suoi dati | Perché voglio permettere al paziente di usare il software per consegnargli la sua dieta |
+|Come dietista, voglio rimuovere un paziente| Perché non è più un mio paziente|
 | Come dietista, voglio aggiungere una descrizione del paziente (stato emotivo, obbiettivi, sport effettuato) | Perché voglio avere un contesto riguardo il paziente per seguirlo meglio |
 | Come dietista, voglio creare/modificare/eliminare un piano alimentare | Perché lo devo consegnare al paziente |
 | Come dietista, voglio creare/modificare/eliminare una giornata di dieta | Perché lo devo consegnare al paziente |
 | Come dietista, voglio scrivere se una giornata di dieta è legata ad attività fisica o meno | Perché il paziente deve sapere se allenarsi |
 | Come dietista, voglio inserire/modificare/eliminare/cambiare ordine un pasto all'interno di una giornata di dieta | Perché devo strutturare i pasti del paziente all'interno della dieta |
-| Come dietista, voglio inserire/modificare/eliminare/cambiare ordine un alimento all'interno di un pasto | Perché devo inserire ogni alimento dosato che il paziente deve consumare ad ogni pasto |
+| Come dietista, voglio inserire/modificare/eliminare/cambiare ordine a un alimento all'interno di un pasto | Perché devo inserire ogni alimento dosato che il paziente deve consumare ad ogni pasto |
 | Come dietista, voglio creare un nuovo alimento inserendo kcal e macronutrienti | Perché l'alimento che voglio dare al paziente non è presente nella lista di alimenti dell'app |
 | Come dietista, voglio aggregare più alimenti | Perché devo realizzare piatti unici |
 | Come dietista, voglio inserire note vicino ai pasti | Perché devo dare consigli o osservazioni al paziente riguardo a quel pasto |
@@ -114,7 +116,7 @@ Javascript (react), node.js
 | Usabilità | L'interfaccia deve essere semplice e utilizzabile anche da pazienti con poca esperienza informatica |
 | Compatibilità | L'app deve funzionare su smartphone, tablet e PC (design responsive) |
 | Prestazioni | La ricerca di un alimento e il caricamento del piano alimentare devono avvenire in pochi secondi |
-| Disponibilità | Il servizio deve essere raggiungibile in modo continuativo, con backup periodici dei dati |
+| Disponibilità | La dieta deve essere consultabile anche offline, con backup periodici dei dati |
 | Manutenibilità | Il codice deve essere modulare per permettere di aggiungere facilmente nuove funzioni |
  
 ---
