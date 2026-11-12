@@ -133,10 +133,10 @@ Javascript (react), node.js
 ![Diagramma use case](diagrammaNutrizionista-Paziente.svg)
 ---
 ### Paziente:
-![Diagramma use case](Paziente.svg)
+![Diagramma use case](paziente.svg)
 ---
 ### Nutrizionista:
-![Diagramma use case](usecasep-personalenutrizionista-paziente.svg)
+![Diagramma use case](nutrizionista.svg)
 ---
 ### Admin:
 ![Diagramma use case](admin.svg)
